@@ -2,10 +2,10 @@
 
 ##### This project has been done for CSE 3200 ( Software Development Project II ) under the supervision of <a href="https://www.cse.ruet.ac.bd/mahitcse" target="_blank">Mahit Kumar Paul</a>, Assistant Professor, Dept. of Computer Science & Engineering, Rajshahi University of Engineering & Technology.
 
-##### **Language**: Python, MySQL
-##### **Editor**  : Visual Studio Code
-##### **Algorithm for Face Detection**: Haarcascade 
-##### **Algorithm for Face Recognition**: Local Binary Pattern Historgram
+#####  **Language**: Python, MySQL
+#####  **Editor**  : Visual Studio Code
+#####  **Algorithm for Face Detection**: Haarcascade 
+#####  **Algorithm for Face Recognition**: Local Binary Pattern Historgram
 
 ## This project follows these steps-
 #####  1. The necessary information of students were collected and saved in the database.
